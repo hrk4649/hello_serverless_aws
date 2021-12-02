@@ -9,6 +9,7 @@ a simple sample for serverless framework using AWS
 ## Environment
 
 - Windows 11
+- git bash (included in Git for Windows)
 - Chocolatey 0.10.15
 - nvm 1.1.7
 - node 14.3.0
