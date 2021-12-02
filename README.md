@@ -202,7 +202,7 @@ $ curl -s https://hzay6myhtb.execute-api.us-west-2.amazonaws.com/users/create
 }
 ```
 
-you can find the following resources were created on AWS.
+you can find the following resources created on AWS.
 
 - Lambda
 - API Gateway to call the function
